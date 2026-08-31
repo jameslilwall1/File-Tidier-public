@@ -2,8 +2,9 @@
 
 ## Reporting a vulnerability
 
-Please report security issues privately, by email to **jameslilwall@gmail.com**, rather than
-opening a public issue.
+Please report security issues privately - via GitHub's private vulnerability reporting (this
+repo's Security tab -> Report a vulnerability) or by email to **jameslilwall@gmail.com** - rather
+than opening a public issue.
 
 Useful things to include, if you have them: what the issue is, how to reproduce it, and what
 an attacker could actually do with it.
