@@ -12,9 +12,9 @@ an attacker could actually do with it.
 ## What to expect
 
 This is a personal project maintained by one person in their own time. Reports are read and
-taken seriously, but there is **no committed response time**. This file will state one once
-there is a real commitment behind it, rather than quoting a number nobody has undertaken to
-meet.
+taken seriously on a best-effort basis. There is deliberately **no fixed response-time
+commitment** — for a single-maintainer catalogue, a promised SLA nobody is actually staffed to
+meet would be worse than an honest absence of one.
 
 ## Supported versions
 
